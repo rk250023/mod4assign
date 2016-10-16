@@ -1,0 +1,1 @@
+!function(){"use strict";function t(t,e){var n=this;n.items=e.data.menu_items}angular.module("menuapp").controller("ItemDetailController",t),t.$inject=["MenuDataService","catitems"]}();
